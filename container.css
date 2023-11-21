@@ -1,0 +1,111 @@
+.box{
+    display: flex;
+    flex-direction: row;
+}
+.linear{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 400px;
+border-radius: 50px;
+flex-direction: column;
+color: white;
+}
+.circle{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(43, 43, 218);
+    border-radius: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.num{
+    font-weight: bolder;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.div2 {
+    background-color: whitesmoke;
+    width: 400px;
+    height: 500px;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    }
+    .kid1{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap-reverse;
+    }
+    
+    .kid2{
+        display: flex;
+        color: brown;
+        background-color: beige;
+        width: 300px;
+        border-radius: 20px;
+        margin-left: 50px;
+
+    }
+.percentage{
+    padding-left: 150px;
+}
+    
+    .kid3{
+        display: flex;
+        color: yellow;
+        background-color: wheat;
+        border-radius: 20px;
+        margin-left: 50px;
+        width: 300px;
+    }
+    .kid4{
+        display: flex;
+        color:green;
+        background-color: grey;
+        border-radius: 20px;
+        margin-left: 50px;
+        width: 300px;
+    }
+    .kid5{
+        display: flex;
+        color: blue;
+        background-color: burlywood;
+        border-radius: 20px;
+        margin-left: 50px;
+        width: 300px;
+    }
+    .kid6{
+        display: flex;
+    }
+    .kid7{
+        display: flex;
+    }
+    .button{
+        height: 40px;
+        width: 300px;
+        background-color: black;
+        color: white;
+        border-radius: 80px;
+        align-items: center;
+        margin-left: 50px;
+    }
+    h1{
+        text-align: center;}
+    h2{
+        text-align: center;
+    }
+    pre{
+        text-align: center;
+    }
+    h3{
+        margin-left: 50px;
+    }
+
+
+    
